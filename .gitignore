@@ -1,0 +1,6 @@
+#Ignoramos lo siguiente:
+*/.vagrant
+.vagrant
+*.vmdk
+*.log
+.DS_Store

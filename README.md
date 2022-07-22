@@ -1,7 +1,7 @@
 # sysadmin-Juanma
 ## Project sysadmin Juan Manuel Torrado Borrachero
 
-1. Clone repository: https://github.com/KeepCodingCloudDevops6/sysadmin-Juanma.git
+1. Clone repository: https://github.com/JuanMaTB/sysadmin-Juan_Manuel-Project.git
 
 2. Launch vagrant up command terminal placed in Vagrant directory
 

@@ -1,4 +1,4 @@
-# sysadmin-Juanma
+# Wordpress monitored by ELK and automated by Vagrant
 ## Project sysadmin Juan Manuel Torrado Borrachero
 #### In this project the installation of two virtual machines will be automated. Wordpress, nginx, maridb (SECURIZED) and Filebeat will be automatically installed on the first machine. In the other hand,  second virtual machine the ELK stack will be mounted to monitor wordpress from the first virtual machine
 
